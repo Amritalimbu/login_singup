@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "name": "shir",
+            "password": "Shir@1234",
+            "profile": {
+                "dsptn": "ekri",
+                "hobbies": "f0ier",
+                "dob": "fwr3",
+                "gender": "w3r"
+            }
+        },
+        {
+            "name": "prem",
+            "password": "Prem@123",
+            "profile": {
+                "dsptn": "rheuiw",
+                "hobbies": "rwt",
+                "dob": "wqefr",
+                "gender": "erqw"
+            }
+        },
+        {
+            "name": "amrita",
+            "password": "Amrita@1234",
+            "profile": {
+                "dsptn": "qeiru",
+                "hobbies": "wer",
+                "dob": "wer",
+                "gender": "wret"
+            }
+        },
+        {
+            "name": "aite",
+            "password": "Aite@1234",
+            "profile": {
+                "dsptn": "wudqoiew",
+                "hobbies": "eru",
+                "dob": "ert",
+                "gender": "rut"
+            }
+        }
+    ]
+}
